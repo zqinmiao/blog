@@ -9,3 +9,4 @@
 * [react+typescript+antd脚手架搭建](https://github.com/zqinmiao/blog/issues/7)
 * [[翻译]http2-for-a-faster-web——快速了解http2](https://github.com/zqinmiao/blog/issues/8)
 * [[翻译] JavaScript函数的6个基本术语](https://github.com/zqinmiao/blog/issues/9)
+* [最强前端性能优化，Google已经为你准备好了](https://github.com/zqinmiao/blog/issues/10)
